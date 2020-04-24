@@ -1,0 +1,111 @@
+Date,Overall AQI Value,Main Pollutant,Site Name (of Overall AQI),Site ID (of Overall AQI),Source (of Overall AQI),Ozone,PM25
+1/1/2020,102,PM2.5,Long Beach-Route 710 Near Road,06-037-4008,AirNow,38,102
+1/2/2020,66,PM2.5,Long Beach-Route 710 Near Road,06-037-4008,AirNow,36,66
+1/3/2020,87,PM2.5,Long Beach-Route 710 Near Road,06-037-4008,AirNow,33,87
+1/4/2020,99,PM2.5,Long Beach-Route 710 Near Road,06-037-4008,AirNow,36,99
+1/5/2020,96,PM2.5,Long Beach-Route 710 Near Road,06-037-4008,AirNow,40,96
+1/6/2020,72,PM2.5,Long Beach-Route 710 Near Road,06-037-4008,AirNow,42,72
+1/7/2020,38,PM2.5,Long Beach-Route 710 Near Road,06-037-4008,AirNow,33,38
+1/8/2020,57,PM2.5,Long Beach-Route 710 Near Road,06-037-4008,AirNow,35,57
+1/9/2020,50,PM2.5,Long Beach-Route 710 Near Road,06-037-4008,AirNow,35,50
+1/10/2020,65,PM2.5,Long Beach-Route 710 Near Road,06-037-4008,AirNow,31,65
+1/11/2020,75,PM2.5,Long Beach-Route 710 Near Road,06-037-4008,AirNow,33,75
+1/12/2020,67,PM2.5,Long Beach-Route 710 Near Road,06-037-4008,AirNow,39,67
+1/13/2020,81,PM2.5,Long Beach-Route 710 Near Road,06-037-4008,AirNow,42,81
+1/14/2020,85,PM2.5,Long Beach-Route 710 Near Road,06-037-4008,AirNow,37,85
+1/15/2020,124,PM2.5,Long Beach-Route 710 Near Road,06-037-4008,AirNow,37,124
+1/16/2020,88,PM2.5,Long Beach (South),06-037-4004,AirNow,40,88
+1/17/2020,38,Ozone,Santa Clarita,06-037-6012,AirNow,38,36
+1/18/2020,62,PM2.5,Long Beach (South),06-037-4004,AirNow,41,62
+1/19/2020,58,PM2.5,Long Beach (South),06-037-4004,AirNow,38,58
+1/20/2020,61,PM2.5,Los Angeles-North Main Street,06-037-1103,AirNow,35,61
+1/21/2020,49,PM2.5,Glendora,06-037-0016,AirNow,39,49
+1/22/2020,53,PM2.5,Long Beach (South),06-037-4004,AirNow,36,53
+1/23/2020,58,PM2.5,Long Beach (South),06-037-4004,AirNow,37,58
+1/24/2020,61,PM2.5,Long Beach (South),06-037-4004,AirNow,32,61
+1/25/2020,87,PM2.5,Los Angeles-North Main Street,06-037-1103,AirNow,36,87
+1/26/2020,108,PM2.5,Los Angeles-North Main Street,06-037-1103,AirNow,37,108
+1/27/2020,77,PM2.5,Long Beach (South),06-037-4004,AirNow,40,77
+1/28/2020,57,PM2.5,Long Beach (South),06-037-4004,AirNow,42,57
+1/29/2020,46,PM2.5,Long Beach (South),06-037-4004,AirNow,44,46
+1/30/2020,59,PM2.5,Long Beach-Route 710 Near Road,06-037-4008,AirNow,41,59
+1/31/2020,67,PM2.5,Long Beach-Route 710 Near Road,06-037-4008,AirNow,37,67
+2/1/2020,59,PM2.5,Long Beach-Route 710 Near Road,06-037-4008,AirNow,47,59
+2/2/2020,69,PM2.5,Long Beach-Route 710 Near Road,06-037-4008,AirNow,44,69
+2/3/2020,45,Ozone,Pasadena,06-037-2005,AirNow,45,26
+2/4/2020,41,Ozone,Reseda,06-037-1201,AirNow,41,31
+2/5/2020,52,PM2.5,Long Beach (South),06-037-4004,AirNow,33,52
+2/6/2020,62,PM2.5,Long Beach-Route 710 Near Road,06-037-4008,AirNow,39,62
+2/7/2020,76,PM2.5,Long Beach-Route 710 Near Road,06-037-4008,AirNow,44,76
+2/8/2020,76,PM2.5,Long Beach-Route 710 Near Road,06-037-4008,AirNow,67,76
+2/9/2020,51,PM2.5,Los Angeles-North Main Street,06-037-1103,AirNow,42,51
+2/10/2020,42,PM2.5,Long Beach-Route 710 Near Road,06-037-4008,AirNow,41,42
+2/11/2020,45,PM2.5,Long Beach-Route 710 Near Road,06-037-4008,AirNow,44,45
+2/12/2020,52,PM2.5,Long Beach-Route 710 Near Road,06-037-4008,AirNow,44,52
+2/13/2020,62,PM2.5,Long Beach-Route 710 Near Road,06-037-4008,AirNow,46,62
+2/14/2020,64,PM2.5,Los Angeles-North Main Street,06-037-1103,AirNow,49,64
+2/15/2020,67,PM2.5,Long Beach-Route 710 Near Road,06-037-4008,AirNow,61,67
+2/16/2020,80,Ozone,Pomona,06-037-1701,AirNow,80,64
+2/17/2020,71,Ozone,Pasadena,06-037-2005,AirNow,71,70
+2/18/2020,72,PM2.5,Los Angeles-North Main Street,06-037-1103,AirNow,45,72
+2/19/2020,80,PM2.5,Glendora,06-037-0016,AirNow,50,80
+2/20/2020,78,PM2.5,Long Beach-Route 710 Near Road,06-037-4008,AirNow,48,78
+2/21/2020,70,PM2.5,Long Beach (South),06-037-4004,AirNow,58,70
+2/22/2020,42,Ozone,Pasadena,06-037-2005,AirNow,42,34
+2/23/2020,53,PM2.5,Glendora,06-037-0016,AirNow,47,53
+2/24/2020,59,PM2.5,Glendora,06-037-0016,AirNow,44,59
+2/25/2020,61,PM2.5,Long Beach-Route 710 Near Road,06-037-4008,AirNow,46,61
+2/26/2020,51,PM2.5,Long Beach-Route 710 Near Road,06-037-4008,AirNow,43,51
+2/27/2020,57,PM2.5,Long Beach-Route 710 Near Road,06-037-4008,AirNow,43,57
+2/28/2020,46,PM2.5,Long Beach (South),06-037-4004,AirNow,45,46
+2/29/2020,51,Ozone,Pasadena,06-037-2005,AirNow,51,47
+3/1/2020,46,PM2.5,Glendora,06-037-0016,AirNow,46,46
+3/2/2020,45,Ozone,Pasadena,06-037-2005,AirNow,45,35
+3/3/2020,44,Ozone,Pasadena,06-037-2005,AirNow,44,39
+3/4/2020,59,PM2.5,Los Angeles-North Main Street,06-037-1103,AirNow,44,59
+3/5/2020,72,PM2.5,Long Beach (South),06-037-4004,AirNow,61,72
+3/6/2020,66,PM2.5,Glendora,06-037-0016,AirNow,58,66
+3/7/2020,42,Ozone,Pasadena,06-037-2005,AirNow,42,37
+3/8/2020,42,Ozone,Pasadena,06-037-2005,AirNow,42,27
+3/9/2020,38,Ozone,Pasadena,06-037-2005,AirNow,38,36
+3/10/2020,28,Ozone,Reseda,06-037-1201,AirNow,28,23
+3/11/2020,41,Ozone,Reseda,06-037-1201,AirNow,41,25
+3/12/2020,43,PM2.5,Long Beach-Route 710 Near Road,06-037-4008,AirNow,31,43
+3/13/2020,37,Ozone,Santa Clarita,06-037-6012,AirNow,37,35
+3/14/2020,41,Ozone,Reseda,06-037-1201,AirNow,41,30
+3/15/2020,43,Ozone,Pasadena,06-037-2005,AirNow,43,30
+3/16/2020,38,Ozone,Lancaster-Division Street,06-037-9033,AirNow,38,37
+3/17/2020,43,Ozone,Pasadena,06-037-2005,AirNow,43,34
+3/18/2020,46,PM2.5,Long Beach-Route 710 Near Road,06-037-4008,AirNow,44,46
+3/19/2020,44,Ozone,Reseda,06-037-1201,AirNow,44,29
+3/20/2020,43,Ozone,Pasadena,06-037-2005,AirNow,43,25
+3/21/2020,47,Ozone,Reseda,06-037-1201,AirNow,47,32
+3/22/2020,43,Ozone,Pasadena,06-037-2005,AirNow,43,33
+3/23/2020,45,Ozone,Pasadena,06-037-2005,AirNow,45,22
+3/24/2020,43,Ozone,Pasadena,06-037-2005,AirNow,43,27
+3/25/2020,44,Ozone,Reseda,06-037-1201,AirNow,44,24
+3/26/2020,45,Ozone,Pasadena,06-037-2005,AirNow,45,25
+3/27/2020,47,Ozone,Reseda,06-037-1201,AirNow,47,36
+3/28/2020,54,Ozone,Pasadena,06-037-2005,AirNow,54,42
+3/29/2020,54,Ozone,Pasadena,06-037-2005,AirNow,54,43
+3/30/2020,54,Ozone,Pasadena,06-037-2005,AirNow,54,41
+3/31/2020,74,Ozone,Pasadena,06-037-2005,AirNow,74,52
+4/1/2020,67,Ozone,Glendora,06-037-0016,AirNow,67,53
+4/2/2020,50,PM2.5,Glendora,06-037-0016,AirNow,49,50
+4/3/2020,54,Ozone,Pasadena,06-037-2005,AirNow,54,53
+4/4/2020,51,Ozone,Reseda,06-037-1201,AirNow,51,45
+4/5/2020,37,Ozone,Pomona,06-037-1701,AirNow,37,32
+4/6/2020,42,Ozone,Reseda,06-037-1201,AirNow,42,23
+4/7/2020,40,Ozone,Reseda,06-037-1201,AirNow,40,26
+4/8/2020,43,Ozone,Reseda,06-037-1201,AirNow,43,26
+4/9/2020,35,Ozone,Reseda,06-037-1201,AirNow,35,22
+4/10/2020,42,Ozone,Pasadena,06-037-2005,AirNow,42,20
+4/11/2020,49,Ozone,Pasadena,06-037-2005,AirNow,49,36
+4/12/2020,40,Ozone,Reseda,06-037-1201,AirNow,40,29
+4/13/2020,38,Ozone,Reseda,06-037-1201,AirNow,38,31
+4/14/2020,54,Ozone,Glendora,06-037-0016,AirNow,54,47
+4/15/2020,77,Ozone,Pasadena,06-037-2005,AirNow,77,52
+4/16/2020,71,Ozone,Pasadena,06-037-2005,AirNow,71,49
+4/17/2020,43,Ozone,Reseda,06-037-1201,AirNow,43,38
+4/18/2020,40,Ozone,Pasadena,06-037-2005,AirNow,40,38
+4/19/2020,44,Ozone,Pasadena,06-037-2005,AirNow,44,40

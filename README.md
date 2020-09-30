@@ -4,7 +4,7 @@
 
 ### Team Members: Tan Duong, Eric Kim, Karen Galindo Choudhary, Monte Rodriguez
 
-![CA vs NY Img](Images/CAvsNY.png)
+![CAvsNY](Images/CAvsNY.png)
 
 ## When analyzing COVID-19 data for Calfironia and New York, our goal was to find answers to the following questions: 
 1. Which state followed the stay-at-home order more effectively? 
